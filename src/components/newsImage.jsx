@@ -10,33 +10,39 @@ function NewsImage() {
     <div className='newsImage'>
     <div className='imagenews'>
     <img src={Cafe} />
-    <br />
-      White Architectures work was mentioned as best in one of the spacious interior as well clean design in UNI . COS Magazine of the year 2020.
+    <br /><span>
+      
+    White Architectures work was mentioned as best in one of the spacious interior as well clean design in UNI . COS Magazine of the year 2020.
       <br />
       <br />
       <span>
       __________20 June 2020
       </span>
+    </span>
     </div>
     <div className='imagenews'>
     <img src={Space} />
     <br />
+    <span>
     D&D Magzine 2020 added an article on our workof "Space and Light"saying about the design trend that we are setting out there.
     <br />
     <br />
     <span>
       __________12 March 2020
     </span>
+    </span>
     </div>
     <div className='imagenews'>
       <img src={Third} />
       <br />
-    D&D Magzine 2020 added an article on our workof "Space and Light"saying about the design trend that we are setting out there.
+   <span>
+   D&D Magzine 2020 added an article on our workof "Space and Light"saying about the design trend that we are setting out there.
     <br />
     <br />
     <span>
       ___________12 March 2020
     </span>
+   </span>
       </div>
     </div>
     

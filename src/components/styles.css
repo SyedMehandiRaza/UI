@@ -94,8 +94,13 @@
 .sec-container{
   background-color: black;
   height: 1300px;
-  opacity: 0.9;
+  opacity: 1;
   width: 100%;
+  margin-top: -90px;
+}
+
+.bg-sec-color{
+  background-color: black;
 }
 
 .sec-page{
@@ -119,6 +124,7 @@
   color: white;
   margin-left: 164px;
   margin-top: -23px;
+  
 }
 
 .border-radius{
@@ -151,8 +157,8 @@
 
 /* -------------- */
 .news{
-  /* color: white; */
-  color: black;
+  color: white;
+  /* color: black; */
   margin-left: 164px;
   margin-top: -23px;
   margin-bottom: 150px;
@@ -312,10 +318,19 @@
     margin-top: 150px;
     height: 850px;
   }
+  .sec-container{
+    height: 1950px;
+    
+  }
+  .sec-container span{
+    display: none;
+    
+  }
 
   .imagenews img{
     justify-content: space-around;
     margin: 50%;
+    margin-top: -179px;
   }
   .projleft{
     margin-left: -5px;
