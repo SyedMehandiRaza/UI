@@ -6,7 +6,7 @@ export default function Footer() {
       WHITE ARCHITECTURES<br />
       </div>
       </div>
-      <center><span>Instagram</span> <span>Twitter</span></center>
+      <center className="footer-social"><span>Instagram</span> <span>Twitter</span></center>
       <div className="line">
         <hr />
       </div>
